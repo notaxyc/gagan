@@ -1,0 +1,60 @@
+
+{
+  "branding": {
+    "name": "Abusers™ Nuker",
+    "version": "4.0.0",
+    "author": "Team Abusers™ & Made By AxYc / SrujaN",
+    "team": "Team Abusers™",
+    "discord": ".gg/abusers"
+  },
+  "performance": {
+    "max_concurrent_tasks": 150,
+    "rate_limit_delay": 0.001,
+    "webhook_message_delay": 0.0001,
+    "ban_batch_size": 75000,
+    "channel_batch_size": 150,
+    "role_batch_size": 150
+  },
+  "features": {
+    "multi_channel_names": [
+      "abused-by-abusers",
+      "destroyed-by-team",
+      "nuked-bloody",
+      "terminated-brutally",
+      "obliterated-savagely",
+      "annihilated-mercilessly",
+      "massacred-by-abusers",
+      "bloodbath-channel",
+      "carnage-zone",
+      "slaughter-house"
+    ],
+    "multi_role_names": [
+      "Abused",
+      "Bloody Victim",
+      "Terminated",
+      "Destroyed",
+      "Obliterated",
+      "Team Abusers™",
+      "Massacred",
+      "Butchered",
+      "Bloodied",
+      "Slaughtered"
+    ],
+    "spam_messages": [
+      "@everyone ABUSERS™ HAS TERMINATED THIS SERVER - discord.gg/abusers",
+      "@everyone TEAM ABUSERS™ - THE BLOODY DESTROYERS - discord.gg/abusers",
+      "@everyone SERVER BRUTALLY NUKED BY ABUSERS™ - discord.gg/abusers",
+      "@everyone BLOODBATH INITIATED BY TEAM ABUSERS™ - discord.gg/abusers",
+      "@everyone ABUSERS™ - BRINGING THE BLOODY MASSACRE - discord.gg/abusers",
+      "@everyone Made By AxYc / SrujaN - discord.gg/abusers"
+    ],
+    "mass_mention_count": 100000,
+    "fast_nuke_mode": true,
+    "auto_webhook_spam": true,
+    "bloody_theme": true
+  },
+  "discord": {
+    "api_version": "v10",
+    "base_url": "https://discord.com/api"
+  }
+}
